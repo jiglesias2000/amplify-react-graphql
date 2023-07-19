@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagenesAppNotas",
+  "policyUUID": "5f894e7e",
+  "bucketName": "amplifyreactgraphqld8c51b5ee48543509b9f36eb83b3",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
